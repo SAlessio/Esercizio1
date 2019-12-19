@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/helloworld/.vs/helloworld/v16/Server/sqlite3
+/helloworld/helloworld/obj/Debug
